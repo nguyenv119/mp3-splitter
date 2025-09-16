@@ -1,4 +1,4 @@
-# mp3 splitter
+# mp3-transcriber
 ---
 
 i needed to provide chatgpt context for my love poetry class heh
