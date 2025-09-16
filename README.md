@@ -1,7 +1,7 @@
 # mp3-transcriber
 ---
 
-i needed to provide chatgpt context for my love poetry class heh
+I needed to give ChatGPT context without hitting the upload limit, heh
 
 ## Requirements
 - ffmpeg (required for MP3 processing)
